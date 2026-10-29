@@ -1,0 +1,1 @@
+/gagarine/temporaires/ecan/Programs/basilisk/src/qcc -autolink -disable-dimensions -O2 -Wall -DMINLEVEL=5 -DMAXLEVEL=8 -DF_TOL=1e-3 -DU_TOL=3e-3 -DJURIN_EXPORT_VIDEO=0 jurin_axi_amr.c -o /gagarine/temporaires/ecan/Random/Kilian/Serov/RisingMeniscus/Jurin_AMR_VM/jurin_amr_vm/campaign/L08_U3e-3/jurin -lm 

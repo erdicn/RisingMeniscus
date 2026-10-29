@@ -2,7 +2,7 @@
 set -euo pipefail
 
 # Par defaut : nombre de coeurs disponibles (ou 4 si nproc non present)
-MAX_JOBS="$(nproc 2>/dev/null || echo 4)"
+MAX_JOBS="$(nproc 2>/dev/null || echo 32)"
 
 # Gestion des arguments optionnels (-j N) et du mode
 while [[ $# -gt 0 ]]; do

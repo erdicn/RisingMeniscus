@@ -1,0 +1,3 @@
+AXI AMR | niveaux=5..10 | dx_min=7.8125e-05 m | cellules/R=64 | slip/dx_min=12.8 | hJ=0.04002654 m | Omega=1 | F_TOL=0.001 | U_TOL=0.01 m/s
+
+# Quadtree, 63958 steps, 1424.7 CPU, 1425 real, 3e+04 points.step/s, 29 var
